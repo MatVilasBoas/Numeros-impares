@@ -1,0 +1,11 @@
+static void Main(string[] args)
+        {
+            int n = 0;
+            while (n<=100)
+            {
+             if (n % 2 == 1)
+             Console.WriteLine(n);
+             n++;
+            }
+            
+        }   
